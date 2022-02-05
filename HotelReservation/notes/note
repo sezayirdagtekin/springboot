@@ -1,0 +1,16 @@
+
+{
+  "firstName":"Cem",
+  "lastName":"Tunc",
+  "emailAddressl":"cemx34q@yahoo.com",
+  "phoneNumber":"90555117643",
+  "adress":"Cemil topuz cadddes...Kecioren",
+  "state":"Ankara",
+  "country":"Turkey"
+
+}
+
+https://www.baeldung.com/spring-boot-data-sql-and-schema-sql
+https://www.baeldung.com/exception-handling-for-rest-with-spring
+https://www.baeldung.com/java-new-custom-exception
+https://www.baeldung.com/junit-5-runwith
