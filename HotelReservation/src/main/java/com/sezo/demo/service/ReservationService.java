@@ -9,6 +9,7 @@ import java.util.Map;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.sezo.demo.dto.RoomReservation;
 import com.sezo.demo.entity.Guest;
 import com.sezo.demo.entity.Reservation;
 import com.sezo.demo.entity.Room;

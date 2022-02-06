@@ -1,4 +1,4 @@
-package com.sezo.demo.service;
+package com.sezo.demo.dto;
 
 import java.time.LocalDate;
 
