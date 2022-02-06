@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
+import com.sezo.demo.dto.RoomReservation;
 import com.sezo.demo.service.ReservationService;
-import com.sezo.demo.service.RoomReservation;
 
 @Controller
 @RequestMapping("/rezervations")

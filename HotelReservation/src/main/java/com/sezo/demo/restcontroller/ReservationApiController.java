@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.sezo.demo.dto.RoomReservation;
 import com.sezo.demo.service.ReservationService;
-import com.sezo.demo.service.RoomReservation;
 
 @RestController
 @RequestMapping("/api")
