@@ -1,3 +1,9 @@
+#docker build and run
+
+docker build -t demo .
+docker run -p 8080:8080 demo
+
+#sample json for save
 
 {
   "firstName":"Cem",
@@ -10,6 +16,7 @@
 
 }
 
+#Refrences tutorial
 https://www.baeldung.com/spring-boot-data-sql-and-schema-sql
 https://www.baeldung.com/exception-handling-for-rest-with-spring
 https://www.baeldung.com/java-new-custom-exception
