@@ -3,6 +3,11 @@
 docker build -t demo .
 docker run -p 8080:8080 demo
 
+
+#Install RabbitMQ 3.9, the latest series
+docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.9-management
+
+
 #sample json for save
 
 {
@@ -24,3 +29,7 @@ https://www.baeldung.com/junit-5-runwith
 https://www.baeldung.com/java-iterate-map
 https://bcrypt-generator.com/
 https://www.baeldung.com/spring-boot-actuators
+https://www.baeldung.com/java-17-random-number-generators
+
+#Docker desktop -> docker-failed-to-initialize-on-windows
+https://stackoverflow.com/questions/68096476/docker-failed-to-initialize-on-windows
